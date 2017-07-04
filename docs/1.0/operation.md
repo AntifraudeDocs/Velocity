@@ -1,8 +1,8 @@
 ---
 layout: page-classic-sidebar-left
 title: Funcionamento
-previous: /docs/1.0/postnotification
-next: /docs/1.0/autenticacao
+previous: /docs/1.0/objective
+next: /docs/1.0/overview
 ---
 ---
 
